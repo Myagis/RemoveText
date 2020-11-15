@@ -1,14 +1,17 @@
-void DuomenysInternet(Grybai & grybai)
+void DuomenysInternet(Grybai & grybai)adsaddasdsa
 {
  ifstream fd(u2);
  int ns = 0;
  bool yra = true;
  while(!fd.eof() && yra) { 
- /*fd >> pav >> tip;
  if(!fd.eof() && (ns - 1 < Grybai::CMax ) )
  grybai[ns++] = s1; 
- else
+ elsedasdas
  yra = false;
+ dasdasd
+ asdasda
+ dasads
+ dasad
  }
  fd.close();
 }
